@@ -1,1 +1,1 @@
-# WiDS-2019
+# interacting-with-open-industrial-data
